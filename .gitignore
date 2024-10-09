@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+Audios_Piramides/
+entorno/
+myenv/
+Juego.py
+JuegoSinRespuestaAlInstante.py
+MenuCon3Dedos.py
+MenuConPuño.py
